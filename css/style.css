@@ -24,7 +24,7 @@ h1 {
     text-align: center;
 }
 
-input[type="text"] {
+[type="text"], [type="password"] {
     border: 0px;
     width: 200px;
     border-bottom: 2px solid black;
